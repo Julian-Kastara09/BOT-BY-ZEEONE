@@ -1,2 +1,2 @@
-- Halo
-! Bang
+-Halo
+!Bang
