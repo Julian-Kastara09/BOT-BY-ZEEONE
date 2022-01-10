@@ -1,1 +1,1 @@
-#f03c15 GAIS
+<font color="green"> Some green text </font> GANZ
