@@ -1,1 +1,1 @@
-<font color="green"> Some green text </font> GANZ
+<font color="green"> GANTENG </font> 
